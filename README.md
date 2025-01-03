@@ -1,5 +1,7 @@
 # Audit Portfolio - cholakovv
 
+I’m a Smart Contract Auditor & Blockchain Engineer at @threesigmaxyz, where I specialize in building and securing next-generation decentralized applications. In addition to my work at ThreeSigma, I also provide independent auditing services for those looking to ensure the reliability and safety of their smart contracts.
+
 If you are a founder or an engineer looking to get your smart contract protocol audited by a security expert, you can contact me on [Twitter](https://twitter.com/cholakovv), [Telegram](https://t.me/cholakovv), or Discord @cholakovv to discuss your needs and help you secure your project.
 
 ## Private Engagements
