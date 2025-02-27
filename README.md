@@ -1,6 +1,6 @@
 # Audit Portfolio
 
-I’m a Smart Contract Auditor & Fuzzing Engineer at [@threesigmaxyz](https://github.com/threesigmaxyz), where I specialize in building and securing next-generation decentralized applications. In addition to my work at ThreeSigma, I also provide independent auditing services for those looking to ensure the reliability and safety of their smart contracts.
+I’m a Blockchain Security Researcher & Fuzzing Engineer at [@threesigmaxyz](https://github.com/threesigmaxyz), where I specialize in building and securing next-generation decentralized applications. In addition to my work at ThreeSigma, I also provide independent auditing services for those looking to ensure the reliability and safety of their smart contracts.
 
 If you are a founder or an engineer looking to get your smart contract protocol audited by a security expert, you can contact me on [Twitter](https://twitter.com/cholakovvv), [Telegram](https://t.me/cholakovv), or Discord @cholakovvv to discuss your needs and help you secure your project.
 
