@@ -13,6 +13,7 @@ Date | Project                             | Type                 | Vulnerabilit
 12.2024 | [PENGU](https://pudgypenguins.com/) | Solana Airdrop | 1C         | Soon | Rust |
 12.2024 | [Ostium Labs](https://www.ostium.io/) | RWA | 1H, 1M, 1L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/5c808fe111c8bcc61fed03f4d0f88e79fe387796.pdf) | Solidity |
 01.2025 | [BuzzFun](https://buzz.fun/) | Token Launcher | 1C, 3H, 3M, 4L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/60e05f736db459727fa7b1ebb7322169afac2e42.pdf) | Solidity |
+01.2025 | [District One - Mini-ICO](https://districtone.io/) | Token Launcher | 1L         | Soon | Solidity |
 02.2025 | [Hoenn](https://www.hoenn.fi/) | Restaking Derivatives | 1C, 2H, 3M, 9L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/1a01c3cde53ae51681e2f875cffa01710e7e20f0.pdf) | Solidity |
 02.2025 | [HotCurves](https://www.hotcurves.fun/) | Token Launcher | 2C, 2H, 7L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/4f12e4d502595bcf9fc197149a421e099a392626.pdf) | Solidity |
 02.2025 | [Thunderhead Labs - stHype](https://thunderhead.xyz/) | LST | Soon         | Soon | Solidity |
@@ -21,7 +22,7 @@ Date | Project                             | Type                 | Vulnerabilit
 04.2025 | [Scoreplay](https://scoreplay.xyz/) | Betting Platform | Soon         | Soon | Solidity |
 04.2025 | [Deep3 Labs](https://www.deep3.ai/) | On-chain AI | Soon         | Soon | Solidity |
 05.2025 | [Pixel Race Club](https://pixelraceclub.com/) | NFT | Soon         | Soon | Solidity |
-05.2025 | [M0 Labs - Halo](https://www.m0.org/) | Bridge | Soon         | Soon | Solidity |
+05.2025 | [M0 Labs - Halo](https://www.m0.org/) | Bridge | Soon         | Soon | Solidity | 
 
 ## Private Engagements
 
