@@ -13,19 +13,19 @@ Date | Project                             | Type                 | Vulnerabilit
 12.2024 | [PENGU](https://pudgypenguins.com/) | Solana Airdrop | 1C         | Soon | Rust |
 12.2024 | [Ostium Labs](https://www.ostium.io/) | RWA | 1H, 1M, 1L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/5c808fe111c8bcc61fed03f4d0f88e79fe387796.pdf) | Solidity |
 01.2025 | [BuzzFun](https://buzz.fun/) | Token Launcher | 1C, 3H, 3M, 4L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/60e05f736db459727fa7b1ebb7322169afac2e42.pdf) | Solidity |
-01.2025 | [District One - Mini-ICO](https://districtone.io/) | Token Launcher | 1L         | Soon | Solidity |
+01.2025 | [District One - Mini-ICO](https://districtone.io/) | Token Launcher | 1L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/DistrictOne-2/Mini-ICO.pdf) | Solidity |
 02.2025 | [Hoenn](https://www.hoenn.fi/) | Restaking Derivatives | 1C, 2H, 3M, 9L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/1a01c3cde53ae51681e2f875cffa01710e7e20f0.pdf) | Solidity |
 02.2025 | [HotCurves](https://www.hotcurves.fun/) | Token Launcher | 2C, 2H, 7L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/4f12e4d502595bcf9fc197149a421e099a392626.pdf) | Solidity |
-02.2025 | [Thunderhead Labs - stHype](https://thunderhead.xyz/) | LST | 3L         | Soon | Solidity |
-02.2025 | [Thunderhead Labs - stElx](https://thunderhead.xyz/) | LST | 1H, 1M, 6L         | Soon | Solidity |
-03.2025 | [Holofair](https://stage-holofair.com/) | Token Launcher | 4H, 4M         | Soon | Solidity |
-04.2025 | [Scoreplay](https://scoreplay.xyz/) | Prediction Market | 1H, 2M, 2L         | Soon | Solidity |
-04.2025 | [Deep3 Labs](https://www.deep3.ai/) | On-chain AI | 1C, 5H, 3M, 2L         | Soon | Solidity |
+02.2025 | [Thunderhead Labs - stHype](https://thunderhead.xyz/) | LST | 3L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/thunderhead/stHype.pdf) | Solidity |
+02.2025 | [Thunderhead Labs - stElx](https://thunderhead.xyz/) | LST | 1H, 1M, 6L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/thunderhead/stElx.pdf) | Solidity |
+03.2025 | [Holofair](https://stage-holofair.com/) | Token Launcher | 4H, 4M         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/mirai/Holofair.pdf) | Solidity |
+04.2025 | [Scoreplay](https://scoreplay.xyz/) | Prediction Market | 1H, 2M, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/scoreplay/SCOREPLAY.pdf) | Solidity |
+04.2025 | [Deep3 Labs](https://www.deep3.ai/) | On-chain AI | 1C, 5H, 3M, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/deep3/Deep3.pdf) | Solidity |
 05.2025 | [Pixel Race Club](https://pixelraceclub.com/) | NFT | 1M, 2L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/6d79c43066b4941b325d2bfe23976e02d1b30ec8.pdf) | Solidity |
-05.2025 | [M0 Labs - Halo](https://www.m0.org/) | Bridge | 1C, 2L         | Soon | Solidity | 
-05.2025 | [Holofair Update](https://stage-holofair.com/) | Token Launcher | 1H, 1L         | Soon | Solidity |
+05.2025 | [M0 Labs - Portal Lite](https://www.m0.org/) | Bridge | 1C, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/m0labs-2/M0PortalLite.pdf) | Solidity | 
+05.2025 | [Holofair Update](https://stage-holofair.com/) | Token Launcher | 1H, 1L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/mirai/Holofair-Update.pdf) | Solidity |
 05.2025 | [Soneta]() | Liquity V2 Fork | 3C, 4H, 6M, 3L,          | Soon | Solidity | 
-05.2025 | [Ojo](https://ojo.network/) | Oracle | 1L,          | Soon | Solidity |
+05.2025 | [Ojo](https://ojo.network/) | Oracle | 1L,          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngine.pdf) | Solidity |
 
 ## Private Engagements
 
