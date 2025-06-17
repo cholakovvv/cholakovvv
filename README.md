@@ -19,20 +19,31 @@ Date | Project                             | Type                 | Vulnerabilit
 02.2025 | [Thunderhead Labs - stHype](https://thunderhead.xyz/) | LST | 3L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/thunderhead/stHype.pdf) | Solidity |
 02.2025 | [Thunderhead Labs - stElx](https://thunderhead.xyz/) | LST | 1H, 1M, 6L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/thunderhead/stElx.pdf) | Solidity |
 03.2025 | [Holofair](https://stage-holofair.com/) | Token Launcher | 4H, 4M         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/mirai/Holofair.pdf) | Solidity |
+03.2025 | [Ojo Network - Smart Pendle](https://ojo.network/) | Oracle | 1C        | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/OjoSmartPendle.pdf) | Solidity |
+03.2025 | [Layer 3 - Airdrop](https://app.layer3.xyz/discover) | Airdrop | 2L          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/layer3/Layer3-Airdrop.pdf) | Solidity |
+04.2025 | [Layer 3 - Button On-chain Game](https://app.layer3.xyz/discover) | GameFI | 1H, 1M, 3L          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/layer3/Layer3-Button.pdf) | Solidity |
 04.2025 | [Scoreplay](https://scoreplay.xyz/) | Prediction Market | 1H, 2M, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/scoreplay/SCOREPLAY.pdf) | Solidity |
 04.2025 | [Deep3 Labs](https://www.deep3.ai/) | On-chain AI | 1C, 5H, 3M, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/deep3/Deep3.pdf) | Solidity |
+04.2025 | [Open Delta](https://www.opendelta.com/) | Staking | 1C, 2M, 6L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/opendelta/IndexTokenStaking.pdf) | Solidity |
 05.2025 | [Pixel Race Club](https://pixelraceclub.com/) | NFT | 1M, 2L         | [Link](https://cdn.sanity.io/files/qoqld077/staging/6d79c43066b4941b325d2bfe23976e02d1b30ec8.pdf) | Solidity |
 05.2025 | [M0 Labs - Portal Lite](https://www.m0.org/) | Bridge | 1C, 2L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/m0labs-2/M0PortalLite.pdf) | Solidity | 
 05.2025 | [Holofair Update](https://stage-holofair.com/) | Token Launcher | 1H, 1L         | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/mirai/Holofair-Update.pdf) | Solidity |
 05.2025 | [Soneta]() | Liquity V2 Fork | 3C, 4H, 6M, 3L,          | Soon | Solidity | 
-05.2025 | [Ojo](https://ojo.network/) | Oracle | 1L,          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngine.pdf) | Solidity |
+05.2025 | [Ojo Network - Yield Risk Engine](https://ojo.network/) | Oracle | 1L          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngine.pdf) | Solidity |
+06.2025 | [Ojo Network - Yield Risk Engine V2](https://ojo.network/) | Oracle | 1L          | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngineV2.pdf) | Solidity |
+06.2025 | [Hyperwave]() | Cross-Chain Bridge | 1L          | Soon | Solidity |
+06.2025 | [Layer 3 - Liquid Reward Staking](https://app.layer3.xyz/discover) | Reward Distribution | 3L          | Soon | Solidity |
 
 ## Private Engagements
 
-| Project                             | Type                 | Vulnerabilities | Report                             | Language |
-| ------------------------------------ | --------------------------------- | -------------------------- | ---------------------------------- | -------- |
-| [GasBot V2](https://www.gasbot.xyz/) | Cross-chain gas delivery protocol | 3M, 7L         | [Link](./reports/solo/GasBotV2.md) | Solidity |
-| [Monadex](https://docs.monadex.exchange/) | CPAMM | 2C, 2H, 6M, 6L         | Soon | Solidity |
+Date | Project                             | Provider | Type                 | Vulnerabilities | Report                             | Language |
+| ---- | ------------------------------------ | --------- | --------------------------------- | -------------------------- | ---------------------------------- | -------- |
+| 01.2024 | [GasBot V2](https://www.gasbot.xyz/) | Private | Cross-chain gas delivery protocol | 3M, 7L         | [Link](./reports/solo/GasBotV2.md) | Solidity |
+| 09.2024 | [Monadex](https://docs.monadex.exchange/) | Zealynx Security | CPAMM | 2C, 2H, 6M, 6L         | [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Monadex%20Report.pdf) | Solidity |
+| 05.2025 | [Eth Fabric](https://github.com/eth-fabric/urc?tab=readme-ov-file) | Hashlock | Staking Registry | 1H, 2M, 3L         | Soon | Solidity |
+| 06.2025 | [RGBLisk](https://rgblisk.io/) | Hashlock | NFT | 4M, 1L         | Soon | Solidity |
+| 06.2025 | [Ulalo](https://www.ulalo.io/) | Hashlock | ERC20 Token | 1M, 5L         | Soon | Solidity |
+
 
 ## Competitive audits
 
