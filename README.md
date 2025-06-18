@@ -60,7 +60,38 @@ Date | Project                             | Provider | Type                 | V
 | [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | CodeHawks | Stablecoin                                           | 2M                   | [Link](./reports/contests/CodeHawks/FoundryDefiStablecoin.md)                      | Solidity |
 | [Teller Finance](https://audits.sherlock.xyz/contests/295)                              | Sherlock  | Non-custodial lending book                           | 1H                     | [Link](https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/49) | Solidity |
 
+# Technical Writing
 
+Beyond audits, I do deep‑dive security research and post‑mortems for Three Sigma’s blog and social channels. These pieces distill complex exploits and security concepts into actionable insights for builders, investors, and fellow auditors.
+
+| # | Article |
+|---|---|
+| 1 | [Zora Airdrop Exploit: Deep Technical Dive Into the $128K Claim Contract Hack](https://threesigma.xyz/blog/exploit/zora-airdrop-exploit-analysis) |
+| 2 | [Draining the Cauldron: Inside the $13M Abracadabra GMX V2 Exploit](https://threesigma.xyz/blog/exploit/abracadabra-gmx-defi-exploit-explained) |
+| 3 | [DeFi Front-End Exploits: Security Attacks & Risks](https://threesigma.xyz/blog/exploit/defi-front-end-exploits) |
+| 4 | [2024 Most Exploited DeFi Vulnerabilities](https://threesigma.xyz/blog/exploit/2024-defi-exploits-top-vulnerabilities) |
+| 5 | [Polter Finance Exploit: Fork-and-Pray Failure](https://threesigma.xyz/blog/exploit/polter-finance-exploit-explained-usd12m-loss) |
+| 6 | [DeltaPrime Hack: $4.85M Loss](https://threesigma.xyz/blog/exploit/deltaprime-defi-exploit-avalanche-arbitrum-hack) |
+| 7 | [Penpie Reentrancy Exploit: $27M Heist](https://threesigma.xyz/blog/exploit/penpie-reentrancy-exploit-analysis) |
+| 8 | [Ronin Network Attack: $12M Loss](https://threesigma.xyz/blog/exploit/ronin-network-12m-exploit-analysis) |
+| 9 | [LI.FI Protocol Exploit: $9 Million Drained](https://threesigma.xyz/blog/exploit/lifi-9m-protocol-exploit-analysis) |
+| 10 | [Why Founders Should Prioritize Security in Early-Stage Web3 Projects](https://threesigma.xyz/blog/defi/web3-security-for-founders) |
+| 11 | [Enterprise Crypto OpSec: A Comprehensive Guide for Companies](https://threesigma.xyz/blog/opsec/enterprise-crypto-opsec-guide-2025) |
+| 12 | [Why SDK Audits Are Critical for Web3 Security](https://threesigma.xyz/blog/sdk/web3-sdk-audits-security-guide) |
+| 13 | [OpSec for Everyday Users: A Practical Guide to Staying Safe – Part 2](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-2-device-privacy-security) |
+| 14 | [OpSec for Everyday Users: A Practical Guide to Staying Safe – Part 1](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security) |
+| 15 | [The Ultimate Web3 Security Roadmap: How to Hit the Jackpot as a Web3 Auditor](https://threesigma.xyz/blog/solidity/web3-security-auditor-roadmap-how-to-start-and-succeed) |
+| 16 | [What Is a Smart Contract Audit & How to Choose the Right Security Partner](https://threesigma.xyz/blog/solidity/what-is-a-smart-contract-audit-and-how-to-choose-the-right-security-partner) |
+| 17 | [Noir: Simplifying Zero-Knowledge Proofs](https://threesigma.xyz/blog/zk/noir-simplifying-zero-knowledge-proofs) |
+| 18 | [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/zk/build-noir-decentralized-voting-application) |
+| 19 | [What Is Fuel Network: Rollups & Scalability](https://threesigma.xyz/blog/ecosystem/fuel-network-ethereum-rollups-blockchain-scalability) |
+| 20 | [Build a Decentralized English Auction with Sway](https://threesigma.xyz/blog/ecosystem/build-decentralized-english-auction-sway) |
+| 21 | [Advanced Foundry Cheatcodes Series – Part 1 (Tweet Thread)](https://x.com/threesigmaxyz/status/1934901447885238329) |
+| 22 | [Crypto Scams Are Leveling Up – 6-Part Series (Tweet Thread)](https://x.com/threesigmaxyz/status/1933139062183035003) |
+| 23 | [Decimal Dangers: Math Mishaps and Exploits (Tweet)](https://x.com/threesigmaxyz/status/1929838159019299072) |
+| 24 | [Cork Protocol Exploit: Fake Market Drained $12M (Tweet)](https://x.com/threesigmaxyz/status/1928048350189793678) |
+| 25 | [The $7.5M KiloEx Exploit Breakdown (Tweet)](https://x.com/threesigmaxyz/status/1919704100490387840) |
+| 26 | [EVM vs RISC-V: Future Execution Engine Debate (Tweet)](https://x.com/threesigmaxyz/status/1917910540560617970) |
 
 # Testimonials
 
