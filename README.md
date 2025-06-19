@@ -89,9 +89,8 @@ Beyond audits, I do deep‑dive security research and post‑mortems for Three S
 | 21 | [Advanced Foundry Cheatcodes Series – Part 1 (Tweet Thread)](https://x.com/threesigmaxyz/status/1934901447885238329) |
 | 22 | [Crypto Scams Are Leveling Up – 6-Part Series (Tweet Thread)](https://x.com/threesigmaxyz/status/1933139062183035003) |
 | 23 | [Decimal Dangers: Math Mishaps and Exploits (Tweet)](https://x.com/threesigmaxyz/status/1929838159019299072) |
-| 24 | [Cork Protocol Exploit: Fake Market Drained $12M (Tweet)](https://x.com/threesigmaxyz/status/1928048350189793678) |
-| 25 | [The $7.5M KiloEx Exploit Breakdown (Tweet)](https://x.com/threesigmaxyz/status/1919704100490387840) |
-| 26 | [EVM vs RISC-V: Future Execution Engine Debate (Tweet)](https://x.com/threesigmaxyz/status/1917910540560617970) |
+| 24 | [The $7.5M KiloEx Exploit Breakdown (Tweet)](https://x.com/threesigmaxyz/status/1919704100490387840) |
+| 25 | [EVM vs RISC-V: Future Execution Engine Debate (Tweet)](https://x.com/threesigmaxyz/status/1917910540560617970) |
 
 # Testimonials
 
