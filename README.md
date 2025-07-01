@@ -40,9 +40,6 @@ Date | Project                             | Provider | Type                 | V
 | ---- | ------------------------------------ | --------- | --------------------------------- | -------------------------- | ---------------------------------- | -------- |
 | 01.2024 | [GasBot V2](https://www.gasbot.xyz/) | Private | Cross-chain gas delivery protocol | 3M, 7L         | [Link](./reports/solo/GasBotV2.md) | Solidity |
 | 09.2024 | [Monadex](https://docs.monadex.exchange/) | Zealynx Security | CPAMM | 2C, 2H, 6M, 6L         | [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Monadex%20Report.pdf) | Solidity |
-| 05.2025 | [Eth Fabric](https://github.com/eth-fabric/urc?tab=readme-ov-file) | Hashlock | Staking Registry | 1H, 2M, 3L         | Soon | Solidity |
-| 06.2025 | [RGBLisk](https://rgblisk.io/) | Hashlock | NFT | 4M, 1L         | Soon | Solidity |
-| 06.2025 | [Ulalo](https://www.ulalo.io/) | Hashlock | ERC20 Token | 1M, 5L         | Soon | Solidity |
 
 
 ## Competitive audits
