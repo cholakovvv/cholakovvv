@@ -1,6 +1,6 @@
 # Audit Portfolio
 
-I’m Blockchain Security Researcher at [Three Sigma](https://threesigma.xyz/), with a strong track record of identifying critical/high vulnerabilities across both private and competitive audits. I specialize in securing smart contract protocols end-to-end — from fuzzing to manual review.
+I’m Blockchain Security Researcher at [Three Sigma](https://threesigma.xyz/), with a strong track record of identifying critical/high vulnerabilities across both private and competitive audits. I specialize in securing smart contract protocols end-to-end, from fuzzing to manual review.
 
 I also offer independent audits for teams who want to ship with confidence.
 
