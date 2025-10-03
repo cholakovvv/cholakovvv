@@ -28,11 +28,12 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 | 05.2025 | [Pixel Race Club](https://pixelraceclub.com/)                      | NFT                   | [Link](https://cdn.sanity.io/files/qoqld077/staging/6d79c43066b4941b325d2bfe23976e02d1b30ec8.pdf)        | Solidity |
 | 05.2025 | [M0 Labs - Portal Lite](https://www.m0.org/)                       | Bridge                | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/m0labs-2/M0PortalLite.pdf)         | Solidity |
 | 05.2025 | [Holofair Update](https://stage-holofair.com/)                     | Token Launcher        | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/mirai/Holofair-Update.pdf)         | Solidity |
-| 05.2025 | [Soneta]()                                                         | Liquity V2 Fork       | Soon                                                                                                     | Solidity |
+| 05.2025 | [Soneta]()                                                         | Liquity V2 Fork       | [Link](https://threesigma.xyz/case-studies/stablecoin/soneta)                                                                                                     | Solidity |
 | 05.2025 | [Ojo Network - Yield Risk Engine](https://ojo.network/)            | Oracle                | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngine.pdf)   | Solidity |
 | 06.2025 | [Ojo Network - Yield Risk Engine V2](https://ojo.network/)         | Oracle                | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Ojo-Network/YieldRiskEngineV2.pdf) | Solidity |
-| 06.2025 | [Hyperwave]()                                                      | Cross-Chain Bridge    | Soon                                                                                                     | Solidity |
+| 06.2025 | [Hyperwave]()                                                      | Cross-Chain Bridge    | [Link](https://threesigma.xyz/case-studies/bridge/hyperwave-1)                                                                                                     | Solidity |
 | 06.2025 | [Layer 3 - Liquid Reward Staking](https://app.layer3.xyz/discover) | Reward Distribution   | Soon                                                                                                     | Solidity |
+| 07.2025 | [Felix Protocol](https://www.usefelix.xyz/) | Liquity V2 Fork on Hyperliquid   | [Link](https://threesigma.xyz/case-studies/lending/felix-protocol)                                                                                                     | Solidity |
 
 
 ## Private Engagements
@@ -89,6 +90,13 @@ Beyond audits, I do deep‑dive security research and post‑mortems for Three S
 | 23 | [Decimal Dangers: Math Mishaps and Exploits (Tweet)](https://x.com/threesigmaxyz/status/1929838159019299072) |
 | 24 | [The $7.5M KiloEx Exploit Breakdown (Tweet)](https://x.com/threesigmaxyz/status/1919704100490387840) |
 | 25 | [EVM vs RISC-V: Future Execution Engine Debate (Tweet)](https://x.com/threesigmaxyz/status/1917910540560617970) |
+| 26 | [Advanced Foundry Cheatcodes Series (7 parts)](https://threesigma.xyz/blog/foundry/foundry-vs-hardhat-solidity-testing-tools) |
+| 27 | [Liquid Restaking Tokens (LRT) Deep Dive Series (4 parts)](https://threesigma.xyz/blog/lrt's/liquid-staking-vs-restaking-lsts-vs-lrts) |
+| 28 | [UUPS & Smart Contract Patterns in Upgradeable Contracts](https://threesigma.xyz/blog/web3-security/upgradeable-smart-contracts-proxy-patterns-ethereu) |
+| 29 | [Smart Contract Vulnerabilities in Upgradable Contracts](https://threesigma.xyz/blog/web3-security/upgradeable-contract-security-risks-vulnerabilities) |
+| 30 | [Sui vs Solana (2025): Move or Rust for Your App?](https://threesigma.xyz/blog/ecosystem/sui-vs-solana-guide) |
+
+
 
 # Testimonials
 
