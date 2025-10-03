@@ -10,7 +10,7 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 
 | Date    | Project                                                            | Type                  | Report                                                                                                   | Language |
 | ------- | ------------------------------------------------------------------ | --------------------- | -------------------------------------------------------------------------------------------------------- | -------- |
-| 12.2024 | [PENGU](https://pudgypenguins.com/)                                | Solana Airdrop        | Soon                                                                                                     | Rust     |
+| 12.2024 | [PENGU](https://pudgypenguins.com/)                                | Solana Airdrop        | [Link](https://threesigma.xyz/case-studies/airdrop/pengu)                                                                                                     | Rust     |
 | 12.2024 | [Ostium Labs](https://www.ostium.io/)                              | RWA                   | [Link](https://cdn.sanity.io/files/qoqld077/staging/5c808fe111c8bcc61fed03f4d0f88e79fe387796.pdf)        | Solidity |
 | 01.2025 | [BuzzFun](https://buzz.fun/)                                       | Token Launcher        | [Link](https://cdn.sanity.io/files/qoqld077/staging/60e05f736db459727fa7b1ebb7322169afac2e42.pdf)        | Solidity |
 | 01.2025 | [District One - Mini-ICO](https://districtone.io/)                 | Token Launcher        | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/DistrictOne-2/Mini-ICO.pdf)        | Solidity |
