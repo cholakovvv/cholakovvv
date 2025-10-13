@@ -63,6 +63,7 @@ Beyond audits, I do deep‑dive security research and post‑mortems for Three S
 
 | # | Article |
 |---|---|
+| 0 | [Abracadabra Hack Explained: $1.7M MIM Spell Third Exploit on CauldronV4](https://threesigma.xyz/blog/exploit/mimspell-abracadabra-hack-breakdown) |
 | 1 | [Zora Airdrop Exploit: Deep Technical Dive Into the $128K Claim Contract Hack](https://threesigma.xyz/blog/exploit/zora-airdrop-exploit-analysis) |
 | 2 | [Draining the Cauldron: Inside the $13M Abracadabra GMX V2 Exploit](https://threesigma.xyz/blog/exploit/abracadabra-gmx-defi-exploit-explained) |
 | 3 | [DeFi Front-End Exploits: Security Attacks & Risks](https://threesigma.xyz/blog/exploit/defi-front-end-exploits) |
