@@ -69,7 +69,7 @@ Date | Project                             | Provider | Type                 | V
 | [Foundry DeFi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | CodeHawks | Stablecoin                                           | 2M                   | [Link](./reports/contests/CodeHawks/FoundryDefiStablecoin.md)                      | Solidity |
 | [Teller Finance](https://audits.sherlock.xyz/contests/295)                              | Sherlock  | Non-custodial lending book                           | 1H                     | [Link](https://github.com/sherlock-audit/2024-04-teller-finance-judging/issues/49) | Solidity |
 
-# Exploit Investigations & Post-Mortems - Technical Writing
+# Exploit Investigations & Post-Mortems
 
 Beyond audits, I do deep‑dive security research and post‑mortems for Three Sigma’s blog and social channels. These pieces distill complex exploits and security concepts into actionable insights for builders, investors, and fellow auditors.
 
