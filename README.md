@@ -43,6 +43,7 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 | 10.2025 | [Moon it](https://moon.it/) | Token Launcher   | Soon                                                                                                     | Solidity |
 | 11.2025 | [Keyring](https://www.keyring.network/) | Side Pocket Hook   | Soon                                                                                                     | Solidity |
 | 11.2025 | [Synnax](https://www.synnax.ai/) | Predictive Credit Intelligence   | Soon                                                                                                     | Solidity |
+| 12.2025 | [Felix](https://www.usefelix.xyz/) | EIP-7702  | Soon                                                                                                     | Solidity |
 
 
 ## Private Engagements
