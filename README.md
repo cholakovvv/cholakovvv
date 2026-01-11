@@ -41,9 +41,9 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 | 09.2025 | [Aborean](https://aborean.finance/) | Dex   | [Link](https://threesigma.xyz/case-studies/dex/aborean-finance-audit)                                                                                                     | Solidity |
 | 10.2025 | [More Markets](https://www.more.markets/) | Omnichain Vaults   | Soon                                                                                                     | Solidity |
 | 10.2025 | [Moon it](https://moon.it/) | Token Launcher   | Soon                                                                                                     | Solidity |
-| 11.2025 | [Keyring](https://www.keyring.network/) | Side Pocket Hook   | Soon                                                                                                     | Solidity |
-| 11.2025 | [Synnax](https://www.synnax.ai/) | Predictive Credit Intelligence   | Soon                                                                                                     | Solidity |
-| 12.2025 | [Felix](https://www.usefelix.xyz/) | EIP-7702  | Soon                                                                                                     | Solidity |
+| 11.2025 | [Keyring](https://www.keyring.network/) | Side Pocket Hook   | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Keyring/Keyring-hook.pdf)                                                                                                     | Solidity |
+| 11.2025 | [Synnax](https://www.synnax.ai/) | Predictive Credit Intelligence   | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/synnax/Synnax.pdf)                                                                                                     | Solidity |
+| 12.2025 | [Felix](https://www.usefelix.xyz/) | EIP-7702  | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Felix/Felix2.pdf)                                                                                                     | Solidity |
 
 
 ## Private Engagements
