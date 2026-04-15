@@ -1,10 +1,18 @@
 # Audit Portfolio
 
-I’m Blockchain Security Researcher at [Three Sigma](https://threesigma.xyz/), with a strong track record of identifying critical/high vulnerabilities across both private and competitive audits. I specialize in securing smart contract protocols end-to-end, from fuzzing to manual review.
+I’m Blockchain Security Researcher, with a strong track record of identifying critical/high vulnerabilities across both private and competitive audits. I specialize in securing smart contract protocols end-to-end, from fuzzing to manual review.
 
 I also offer independent audits for teams who want to ship with confidence.
 
 If you're building a protocol and need a battle-tested audit, reach out on [Twitter](https://x.com/cholakovvv) or Telegram @cholakovv.
+
+## Bug Bounties
+
+| Date    | Project      | Platform | Type   | Severity | Link |
+| ------- | ------------ | -------- | ------ | -------- | ------ |
+| 2026    | Undisclosed  | Remedy   | Stablecoin      | Medium   | [Tweet](https://x.com/cholakovvv/status/2037405867738349850) |
+| 2026    | Undisclosed  | Remedy   | Liquity V1 Fork      | Medium   | [Tweet](https://x.com/cholakovvv/status/2041513374182199680) |
+| 2026    | Undisclosed  | Remedy   | Ethereum L2      | Low      | [Tweet](https://x.com/cholakovvv/status/2034628242104013037) |
 
 ## Three Sigma Engagements
 
@@ -44,6 +52,8 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 | 11.2025 | [Keyring](https://www.keyring.network/) | Side Pocket Hook   | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Keyring/Keyring-hook.pdf)                                                                                                     | Solidity |
 | 11.2025 | [Synnax](https://www.synnax.ai/) | Predictive Credit Intelligence   | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/synnax/Synnax.pdf)                                                                                                     | Solidity |
 | 12.2025 | [Felix](https://www.usefelix.xyz/) | EIP-7702  | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/Felix/Felix2.pdf)                                                                                                     | Solidity |
+| 01.2026 | [Camelot](https://cyphereth.com/) | Launchpad  | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/camelot/Camelot.pdf)                                                                                                     | Solidity |
+| 02.2026 | [Unchained](https://unchained.game/) | Gaming  | [Link](https://github.com/threesigmaxyz/publications/blob/main/audits/unchained/Unchained.pdf)                                                                                                     | Solidity |
 
 
 ## Private Engagements
