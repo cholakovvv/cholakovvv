@@ -6,6 +6,8 @@ I also offer independent audits for teams who want to ship with confidence.
 
 If you're building a protocol and need a battle-tested audit, reach out on [Twitter](https://x.com/cholakovvv) or Telegram @cholakovv.
 
+> **Latest open-source work:** [foundry-poc-mainnet-fork](https://github.com/cholakovvv/foundry-poc-mainnet-fork): a Claude Code skill for generating Foundry mainnet-fork PoCs.
+
 ## Bug Bounties
 
 | Date    | Project      | Platform | Type   | Severity | Link |
