@@ -15,6 +15,7 @@ If you're building a protocol and need a battle-tested audit, reach out on [Twit
 | 2026    | Undisclosed  | Remedy   | Stablecoin      | Medium   | [Link](https://x.com/cholakovvv/status/2037405867738349850) |
 | 2026    | Undisclosed  | Remedy   | Liquity V1 Fork      | Medium   | [Link](https://x.com/cholakovvv/status/2041513374182199680) |
 | 2026    | Undisclosed  | Remedy   | Ethereum L2      | Low      | [Link](https://x.com/cholakovvv/status/2034628242104013037) |
+| 2026    | Undisclosed  | Remedy   | Ethereum L2      | Low      | [Link](https://x.com/cholakovvv/status/2052760076918636818) |
 
 ## Three Sigma Engagements
 
